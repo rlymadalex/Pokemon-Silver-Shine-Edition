@@ -1,0 +1,57 @@
+***Round 1***
+Dragon Claw: damage (base=>percentage) 80=>35
+   score change: 100=>135
+Dragon Claw: final score: 135
+Dragon Claw: damage (base=>percentage) 80=>74
+   score change: 100=>174
+Dragon Claw: final score: 174
+Seed Bomb: damage (base=>percentage) 80=>26
+   score change: 100=>126
+Seed Bomb: final score: 126
+Seed Bomb: damage (base=>percentage) 80=>112
+   score change: 100=>212
+Seed Bomb: final score: 212
+X-Scissor: damage (base=>percentage) 80=>35
+   score change: 100=>135
+X-Scissor: final score: 135
+X-Scissor: damage (base=>percentage) 80=>38
+   score change: 100=>138
+X-Scissor: final score: 138
+Drill Peck: damage (base=>percentage) 80=>35
+   score change: 100=>135
+Drill Peck: final score: 135
+Drill Peck: damage (base=>percentage) 80=>148
+   score change: 100=>248
+Drill Peck: final score: 248
+[The foe Carpenter: Dragon Claw=135, Seed Bomb=212, X-Scissor=135, Drill Peck=248]
+[Prefer Drill Peck]
+Dragon Claw: damage (base=>percentage) 80=>74
+   score change: 100=>174
+Dragon Claw: final score: 174
+Dragon Claw: damage (base=>percentage) 80=>35
+   score change: 100=>135
+Dragon Claw: final score: 135
+Seed Bomb: damage (base=>percentage) 80=>112
+   score change: 100=>212
+Seed Bomb: final score: 212
+Seed Bomb: damage (base=>percentage) 80=>26
+   score change: 100=>126
+Seed Bomb: final score: 126
+X-Scissor: damage (base=>percentage) 80=>38
+   score change: 100=>138
+X-Scissor: final score: 138
+X-Scissor: damage (base=>percentage) 80=>35
+   score change: 100=>135
+X-Scissor: final score: 135
+Drill Peck: damage (base=>percentage) 80=>148
+   score change: 100=>248
+Drill Peck: final score: 248
+Drill Peck: damage (base=>percentage) 80=>35
+   score change: 100=>135
+Drill Peck: final score: 135
+[The foe Carpenter: Dragon Claw=174, Seed Bomb=212, X-Scissor=138, Drill Peck=248]
+[The foe Carpenter lost 38 HP, now has 53 HP]
+[Pancham lost 39 HP, now has 0 HP]
+[Pancham fainted]
+[Delphox lost 20 HP, now has 40 HP]
+***Round 1***
